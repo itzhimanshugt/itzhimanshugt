@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itzhimanshugt
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
-- 😄 Pronouns: Optimum/Pride
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Idk Python that much
 
 <!---
